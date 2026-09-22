@@ -1,0 +1,11 @@
+crop,stage,guidance
+Rice,Vegetative,Follow balanced nutrient management based on soil test
+Rice,Flowering,Maintain adequate nutrients and irrigation based on crop condition
+Cotton,Vegetative,Monitor crop nutrient requirement and follow soil-test recommendations
+Cotton,Flowering,Maintain appropriate nutrient availability during flowering
+Groundnut,Vegetative,Follow soil-test-based nutrient management
+Groundnut,Flowering,Maintain suitable nutrient availability during pod development
+Tomato,Vegetative,Use balanced nutrients according to soil and crop requirement
+Tomato,Fruiting,Follow crop-specific nutrient schedule based on soil test
+Maize,Vegetative,Monitor nutrient requirement and maintain balanced nutrition
+Chilli,Fruiting,Follow recommended nutrient management based on soil test
